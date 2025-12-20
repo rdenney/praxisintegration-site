@@ -91,7 +91,14 @@ button:focus-visible {
 }
 
 .site-header {
-  padding: 52px 0 16px;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: var(--header);
+  border-bottom: 1px solid var(--line);
+  backdrop-filter: blur(40px);
+  -webkit-backdrop-filter: blur(40px);
+  padding: 10px 0 1px;
 }
 
 .brand {
