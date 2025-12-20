@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 261.88 78.68">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5 {
+        fill: #4c6e82;
+      }
+
+      .cls-6 {
+        font-family: Optima-Regular, Optima;
+      }
+
+      .cls-2 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2, .cls-5 {
+        font-size: 12px;
+      }
+
+      .cls-7, .cls-8 {
+        fill: #545554;
+      }
+
+      .cls-7, .cls-8, .cls-3, .cls-4 {
+        font-size: 35px;
+      }
+
+      .cls-8, .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-9 {
+        fill: #6f6f6f;
+        font-family: Lato-Regular, Lato;
+        font-size: 17px;
+        opacity: .85;
+      }
+
+      .cls-10 {
+        letter-spacing: .03em;
+      }
+
+      .cls-11 {
+        letter-spacing: 0em;
+      }
+    </style>
+  </defs>
+  <text class="cls-6" transform="translate(-3.15 37.1)"><tspan class="cls-4" x="0" y="0">P</tspan><tspan class="cls-3" x="19.46" y="0">r</tspan><tspan class="cls-4" x="30.69" y="0">axis</tspan><tspan class="cls-5" x="89.04" y="0"> </tspan><tspan class="cls-4" x="92.38" y="0"> </tspan><tspan class="cls-2" x="102.11" y="0"> </tspan><tspan class="cls-7" x="105.44" y="0">Integ</tspan><tspan class="cls-8" x="179.36" y="0">r</tspan><tspan class="cls-7" x="190.6" y="0">ation</tspan></text>
+  <circle class="cls-1" cx="95.12" cy="28.1" r="2.51"/>
+  <text class="cls-9" transform="translate(-1.71 69.21)"><tspan class="cls-10" x="0" y="0">Integ</tspan><tspan class="cls-11" x="40.99" y="0">r</tspan><tspan class="cls-10" x="47.99" y="0">ated · Connected · Directed</tspan></text>
+</svg>
