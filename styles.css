@@ -164,6 +164,33 @@ li {
 .callout h3 {
   color: var(--text);
 }
+/* Navigation styling */
+.site-nav {
+  margin-top: 1rem;
+  display: flex;
+  gap: 1rem;
+}
+.site-nav a {
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+.site-nav a:hover {
+  color: var(--text);
+}
+
+/* Dark mode variables */
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #0f1115;
+    --card: #141824;
+    --text: #e9e9ea;
+    --muted: #b3b3b8;
+    --border: rgba(255, 255, 255, 0.12);
+    --accent: #9ec5ff;
+    --accent-2: #c1d9ff;
+  }
+}
+
 
 .contact-line {
   margin-top: 12px;
